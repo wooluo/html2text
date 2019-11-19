@@ -3,7 +3,7 @@
 import html.entities
 import html.parser
 import re
-import urllib.parse as urlparse
+import urlparse as urlparse
 from textwrap import wrap
 from typing import Dict, List, Optional, Tuple, Union
 
